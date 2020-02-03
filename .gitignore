@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/.vs
+/bin
+/obj
+/MH-Z19AppCore/obj
+/MH-Z19AppCore/bin
